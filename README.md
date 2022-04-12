@@ -60,3 +60,4 @@
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
+<img src="https://i.imgur.com/TlqnezX.jpg" width=600>
