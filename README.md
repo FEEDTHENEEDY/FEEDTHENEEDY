@@ -8,14 +8,15 @@
 
 ## Overview
 ### Description
+FEEDTHENEEDY is a budget friendly food app that allows people of a lower income to get affordable food and necessities and have them picked up from a food bank location. 
 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Mobile:** 
-- **Story:** 
-- **Market:** 
-- **Habit:** 
+- **Mobile:** It's convenience is avoiding the user from driving to pick groceries by showing availability and price. 
+- **Story:**  Food options will apply on this screen. 
+- **Market:** Public 
+- **Habit:**  Lower income receivers
 
 
 ## Product Spec
