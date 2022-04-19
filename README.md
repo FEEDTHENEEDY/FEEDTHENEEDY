@@ -27,7 +27,7 @@ FEEDTHENEEDY is a budget friendly food app that allows people of a lower income 
 
 - [x] User can use intro screen
 - [x] User can login
-- [ ] 
+- [x] Attempted dropdown menu
 - [ ] 
 - [ ] 
 - [ ] 
@@ -66,3 +66,4 @@ FEEDTHENEEDY is a budget friendly food app that allows people of a lower income 
 ## GIF
 
 GIF :  https://i.imgur.com/jUImPAq.gif
+gif 2: https://i.imgur.com/KVh9xRK.gif
